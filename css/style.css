@@ -4,6 +4,9 @@
 
 .beginning-area {
   text-align: center;
+  background: url('https://unsplash.it/2000/3000');
+  color: white;
+  height: 100vh;
 }
 
 .my-button {
