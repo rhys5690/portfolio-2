@@ -1,3 +1,24 @@
 .contact {
   text-align: center;
 }
+
+.beginning-area {
+  text-align: center;
+}
+
+.my-button {
+  display: block;
+  margin: auto;
+}
+
+.about-me {
+  color: white;
+}
+
+.skills {
+  color: white;
+}
+
+.projects {
+  color: white;
+}
