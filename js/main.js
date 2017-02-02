@@ -38,4 +38,11 @@ $(document).ready(function() {
         }, 'slow');
     });
 
+    $(".my-butt").click(function() {
+        $('html, body').animate({
+            scrollTop: $(".about-me").offset().top
+        }, 'slow');
+
+    });
+
 });
