@@ -2,6 +2,8 @@ console.log($);
 
 $(document).ready(function() {
 
+    new WOW().init();
+
     $(".about-me-button").click(function() {
         $('html, body').animate({
             scrollTop: $(".about-me").offset().top
