@@ -11,6 +11,10 @@
 }
 .contact {
   text-align: center;
+  border: 4px solid #01579b;
+  margin: 1rem;
+  border-radius: 15px;
+
 }
 
 .beginning-area {
@@ -33,6 +37,23 @@
 .my-butt:hover {
   background-color: white !important;
   color: black;
+}
+
+.my-butt-2 {
+  display: block;
+  margin: auto;
+  height: 50px;
+  width: 150px;
+  background-color: transparent !important;
+  border: solid 2px black;
+  border-radius: 15px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.my-butt-2:hover {
+  background-color: #01579b !important;
+  color: white;
 }
 
 .about-me {
