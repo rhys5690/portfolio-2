@@ -1,4 +1,7 @@
 
+.none {
+  display: none !important; 
+}
 .central-area {
   position: relative;
 }
@@ -19,7 +22,9 @@
 
 .beginning-area {
   text-align: center;
-  background: url('https://unsplash.it/2000/3000');
+  /*background: url('https://unsplash.it/2000/3000');*/
+  /*background-image: url("assets/planet-image.jpg");*/
+  background: url("../assets/planet-image.jpg");
   color: white;
   height: 92vh;
 }
@@ -32,6 +37,7 @@
   background-color: transparent !important;
   border: solid 2px white;
   border-radius: 15px;
+  margin-top: 4rem;
 }
 
 .my-butt:hover {
