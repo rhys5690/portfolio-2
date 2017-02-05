@@ -1,6 +1,6 @@
 
 body {
-  background: url("../assets/planet-image.jpg");
+  /*background: url("../assets/planet-image.jpg");*/
 }
 
 .none {
@@ -30,7 +30,7 @@ body {
   text-align: center;
   /*background: url('https://unsplash.it/2000/3000');*/
   /*background-image: url("assets/planet-image.jpg");*/
-  background: url("../assets/planet-image.jpg");
+  /*background: url("../assets/planet-image.jpg");*/
   color: white;
   height: 92vh;
 }
