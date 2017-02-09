@@ -3,6 +3,14 @@ body {
   background: url("../assets/planet-image.jpg");
 }
 
+.sep-image {
+  position: absolute;
+
+}
+
+.central-area-inner-2 {
+  position: relative;
+}
 .none {
   display: none !important;
 }
@@ -114,6 +122,8 @@ body {
 .a-button {
   color: white;
 }
+
+
 
 @media screen and (max-width: 601px) {
   * {
